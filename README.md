@@ -16,3 +16,11 @@ This repository contains a Python-based solution for planning an optimal tour fr
 1. Clone the repository:
    ```sh
    git clone https://github.com/abhisheksuga/optimal-tour-planner.git
+2 . Navigate to the project directory:
+   cd optimal-tour-planner
+3. Run the main script to see the heuristic and approximation algorithms in action:
+   python main.py
+
+### Acknowledgements 
+
+Special thanks to Florian Dedov for their blog post on Heuristics, which inspired the hueristics and approximation algorithm used in this project.
